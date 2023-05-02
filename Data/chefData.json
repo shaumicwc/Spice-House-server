@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Buddy Valastro",
+        "picture": "https://variety.com/wp-content/uploads/2022/06/Cake-Boss.jpg?w=1000",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 150,
+        "ratings": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Pia Alonzo Wurtzbach",
+        "picture": "https://media.philstar.com/images/the-philippine-star/lifestyle/fashion-and-beauty/20160108/pia-cooking-apartment.jpg",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 75,
+        "ratings": 4.0
+    },
+    {
+        "id": 3,
+        "name": "Claude Tayag",
+        "picture": "https://pinoyfoodblog.com/wp-content/uploads/2017/06/IMG_2849.jpg",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 125,
+        "ratings": 4.3
+    },
+    {
+        "id": 4,
+        "name": "Margarita Forés",
+        "picture": "https://cdn.cnn.com/cnnnext/dam/assets/160510172441-margarita-fores-super-tease.jpg",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 250,
+        "ratings": 4.9
+    },
+    {
+        "id": 5,
+        "name": "Jordy Navarra",
+        "picture": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/2015/11/24/d3c641fc2ac8095954e84f6818ca7a52.jpg?itok=luvGetQx",
+        "years_of_experience": 15,
+        "number_of_recipes": 32,
+        "ratings": 4.7
+    },
+    {
+        "id": 6,
+        "name": "Miko Aspiras",
+        "picture": "https://nolisoli.ph/wp-content/uploads/2019/04/Miko-Aspiras.jpg",
+        "years_of_experience": 15,
+        "number_of_recipes": 65,
+        "ratings": 4.8
+    }
+]
