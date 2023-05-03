@@ -3,30 +3,28 @@ const app = express();
 const port = process.env.PORT || 4000;
 const cors = require('cors');
 
-// const chef = require('./Data/chefData.json')
 const recipe = require('./Data/recipeData.json')
+const traditionalFood = require('./Data/traditionalFoodData.json')
+const cuisineCourse = require('./Data/cusineCourseData.json')
 
 app.use(cors());
-
-// app.get('/chef', (req, res) =>{
-//     res.send(chef)
-// })
 
 app.get('/', (req, res) =>{
     res.send(recipe)
 })
 
-// app.get('/chef/:id', (req, res) =>{
-//     const id = req.params.id;
-//     const selectedChef = chef.find(cf => cf.id == id)
-//     console.log(id)
-//     res.send(selectedChef)
-// })
-
 app.get('/recipe/:id', (req, res) =>{
     const id = req.params.id;
     const selectedRecipe = recipe.find(rp => rp.id == id)
     res.send(selectedRecipe)
+})
+
+app.get('/traditionalFood', (req, res) =>{
+    res.send(traditionalFood);
+})
+
+app.get('/cuisineCourse', (req, res) =>{
+    res.send(cuisineCourse)
 })
 
 app.listen(port, ()=>{
