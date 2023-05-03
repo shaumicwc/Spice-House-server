@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "name": "Buddy Valastro",
-        "picture": "https://variety.com/wp-content/uploads/2022/06/Cake-Boss.jpg?w=1000",
-        "yearsOfExperience": 20,
-        "numberOfRecipes": 150,
-        "ratings": 4.5
-    },
-    {
+        "name": "Introduction to Filipino Cuisine",
+        "price": 399,
+        "description": "Discover the rich and diverse flavors of Filipino cuisine, from adobo to sinigang, in this introductory course.",
+        "instructor": "Chef Buddy Valastro",
+        "duration": "3 weeks"
+     },
+     {
         "id": 2,
-        "name": "Pia Alonzo Wurtzbach",
-        "picture": "https://media.philstar.com/images/the-philippine-star/lifestyle/fashion-and-beauty/20160108/pia-cooking-apartment.jpg",
-        "yearsOfExperience": 10,
-        "numberOfRecipes": 75,
-        "ratings": 4.0
-    },
-    {
+        "name": "Regional Filipino Dishes",
+        "price": 499,
+        "description": "Explore the unique regional dishes of the Philippines, including Bicol Express and Cebu Lechon.",
+        "instructor": "Chef Pia Alonzo Wurtzbach",
+        "duration": "4 weeks"
+     },
+     {
         "id": 3,
-        "name": "Claude Tayag",
-        "picture": "https://pinoyfoodblog.com/wp-content/uploads/2017/06/IMG_2849.jpg",
-        "yearsOfExperience": 20,
-        "numberOfRecipes": 125,
-        "ratings": 4.3
-    },
-    {
+        "name": "Filipino Street Food Favorites",
+        "price": 299,
+        "description": "Learn how to make popular Filipino street foods, such as fish balls and kwek kwek, in this fun and interactive course.",
+        "instructor": "Chef Claude Tayag",
+        "duration": "2 weeks"
+     },
+     {
         "id": 4,
-        "name": "Margarita Forés",
-        "picture": "https://cdn.cnn.com/cnnnext/dam/assets/160510172441-margarita-fores-super-tease.jpg",
-        "yearsOfExperience": 30,
-        "numberOfRecipes": 250,
-        "ratings": 4.9
-    },
-    {
+        "name": "Vegetarian Filipino Cuisine",
+        "price": 399,
+        "description": "Discover delicious and healthy vegetarian Filipino dishes, such as tofu sisig and ginataang langka.",
+        "instructor": "Chef Margarita Forés",
+        "duration": "3 weeks"
+     },
+     {
         "id": 5,
-        "name": "Jordy Navarra",
-        "picture": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/2015/11/24/d3c641fc2ac8095954e84f6818ca7a52.jpg?itok=luvGetQx",
-        "years_of_experience": 15,
-        "number_of_recipes": 32,
-        "ratings": 4.7
-    },
-    {
+        "name": "Filipino Desserts and Pastries",
+        "price": 299,
+        "description": "Learn how to make traditional Filipino sweets, like bibingka and turon, as well as modern desserts with a Filipino twist.",
+        "instructor": "Chef Jordy Navarra",
+        "duration": "2 weeks"
+     },
+     {
         "id": 6,
-        "name": "Miko Aspiras",
-        "picture": "https://nolisoli.ph/wp-content/uploads/2019/04/Miko-Aspiras.jpg",
-        "years_of_experience": 15,
-        "number_of_recipes": 65,
-        "ratings": 4.8
-    }
+        "name": "Advanced Filipino Cooking Techniques",
+        "price": 599,
+        "description": "Take your Filipino cooking skills to the next level with advanced techniques, such as sous vide and molecular gastronomy.",
+        "instructor": "Chef Miko Aspiras",
+        "duration": "6 weeks"
+     } 
 ]
